@@ -1,5 +1,5 @@
 # study-history
-### Natural Language Processing wiht Transformers
+### Natural Language Processing with Transformers
 1. Hello Transformers
 ### Paper Review
 Anomaly Dectection
