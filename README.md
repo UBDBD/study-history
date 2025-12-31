@@ -3,14 +3,14 @@
 1. Hello Transformers
 ### Paper Review
 Anomaly Dectection
-- A Comprehensive Survey of Anomaly Detection Algorithms_Annals of Data Science'23
+- A Comprehensive Survey of Anomaly Detection Algorithms (Annals of Data Science 2023)
 
 LLM
-- Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?_ACL'25
-- “Well, Keep Thinking”: Enhancing LLM Reasoning with Adaptive Injection Decoding_ACL'25
+- Can Graph Descriptive Order Affect Solving Graph Problems with LLMs? (ACL 2025)
+- “Well, Keep Thinking”: Enhancing LLM Reasoning with Adaptive Injection Decoding (ACL 2025)
 
 NLP
-- Attention Is All You Need_NIPS'17
+- Attention Is All You Need (NIPS 2017)
 
-ML
-- Exploiting Human-AI Dependence for Learning to Defer_ICML'24
+Machine Learning
+- Exploiting Human-AI Dependence for Learning to Defer (ICML 2024)
