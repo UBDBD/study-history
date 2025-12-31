@@ -12,5 +12,5 @@ LLM
 NLP
 - Attention Is All You Need (NIPS 2017)
 
-Machine Learning
+ML
 - Exploiting Human-AI Dependence for Learning to Defer (ICML 2024)
